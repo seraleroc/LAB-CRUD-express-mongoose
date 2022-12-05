@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nós aprendemos a como criar um servidor usando `ExpressJS` e como fazer as opeações de CRUD em um banco de dados no `MongoDB` com Mongoose. Essa atividade vai te ajudar a entender o quanto você fixou esses conceitos e como aplicá-los.
+Nós aprendemos a como criar um servidor usando `ExpressJS` e como fazer as operações de CRUD em um banco de dados no `MongoDB` com Mongoose. Essa atividade vai te ajudar a entender o quanto você fixou esses conceitos e como aplicá-los.
 **Esse desafio requer que você crie uma aplicação básica contendo dois `models` e rotas com `Express`**.
 
 Você irá trabalhar nos seguintes arquivos:
